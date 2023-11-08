@@ -1,0 +1,5 @@
+wget https://nemo.nyc3.digitaloceanspaces.com/DeepLearning/Coco/Images/Nuisance/vrne_nuisance_version_combined_augmented_1_7_all.zip
+wget https://nemo.nyc3.digitaloceanspaces.com/DeepLearning/Coco/Annotations/Nuisance/vrne_nuisance_version_combined_1_7_val.json -O  instances_val2017.json
+wget https://nemo.nyc3.digitaloceanspaces.com/DeepLearning/Coco/Annotations/Nuisance/vrne_nuisance_version_combined_oversampled_augmented_1_7_train.json -O  instances_train2017.json
+unzip vrne_nuisance_version_combined_augmented_1_7_all.zip
+rm vrne_nuisance_version_combined_augmented_1_7_all.zip
