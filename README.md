@@ -8,7 +8,7 @@ Data Transparency:  Allows anyone to view the data used to train the models.
 
 Algorithm Transparency:  Allows anyone to view the models and approach used to train.
 
-Feedback: If a mistake was made the community can correct and improve.
+Feedback: If a mistake was made the community may correct and improve.
 
 ## Project Structure
 The project is organized into the following directories:
@@ -37,7 +37,7 @@ Develop your changes and test thoroughly.
 Submit a pull request with a clear description of your changes.
 
 ## License
-This project is under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License License. Please review the license terms before using or contributing to the project.
+This project is under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License. Please review the license terms before using or contributing to the project.
 
 
 ## Contact
